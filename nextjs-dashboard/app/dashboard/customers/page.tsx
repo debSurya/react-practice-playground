@@ -1,3 +1,6 @@
-const Customers = () => <p>Customers</p>;
+
+const Customers = () => {
+    return <p>Customers</p>;
+};
 
 export default Customers;
